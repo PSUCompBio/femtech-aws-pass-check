@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Add file and the target file size below
-repo=Femtech
+repo=FemTech
 file=1-elt-cube.pvd
 target_file_size=10000
 
