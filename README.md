@@ -1,2 +1,2 @@
 # femtech-aws-pass-check
-file for checking femtech install on aws
+file for checking FemTech install on aws
