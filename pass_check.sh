@@ -3,7 +3,7 @@
 # Add file and the target file size below
 repo=FemTech
 file=1-elt-cube.pvd
-target_file_size=10000
+target_file_size=5148
 
 # You shoud not have to modify below
 #
